@@ -1,6 +1,6 @@
 # Bouffe Front
 
-!(bf.png)
+![](logo-BouffeFront.png)
 
 ## Proposer un sujet
 
