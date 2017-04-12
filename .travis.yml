@@ -1,6 +1,13 @@
 language: ruby
+
 rvm:
-  - 2.2
+  - 2.3.3
+
+before_script:
+ - chmod +x ./cibuild
+
+script: ./cibuild
+
 deploy:
   provider: pages
   skip_cleanup: true
