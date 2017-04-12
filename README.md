@@ -1,4 +1,4 @@
-# Bouffe Front
+# Bouffe Front ![](https://travis-ci.org/Sfeir/bouffe-front.svg?branch=master)
 
 ![](logo-BouffeFront.png)
 
