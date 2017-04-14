@@ -1,6 +1,8 @@
-# Bouffe Front ![](https://travis-ci.org/Sfeir/bouffe-front.svg?branch=master)
-
-![](logo-BouffeFront.png)
+<p align="center">
+<a href="https://sfeir.github.io/bouffe-front/">
+<img src="logo-BouffeFront.png" width=400>
+</a>
+</p>
 
 ## Proposer un sujet
 
@@ -12,7 +14,7 @@ Identique à la proposition mais avec le tag "Demande".
 
 Enjoy !
 
-## Le site web
+## Le site web [![Master branch build Status](https://travis-ci.org/Sfeir/bouffe-front.svg?branch=master)](https://travis-ci.org/Sfeir/bouffe-front)
 
 Pour garder une trace des présentations faites, les bouffes front ont un site !
 
