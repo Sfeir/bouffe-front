@@ -17,8 +17,8 @@ title: Les bouffes front
 email: front@sfeir.com
 description: > # this means to ignore newlines until "baseurl:"
   Le site des bouffes front de SFEIR ! Vous y trouverez toutes les présentations faites par les sfeiriens.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bouffe-front" # the subpath of your site, e.g. /blog
+url: "https://sfeir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 destination: docs/
 
