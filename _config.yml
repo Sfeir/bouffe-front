@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Les bouffes front
-email: your-email@domain.com
+email: front@sfeir.com
 description: > # this means to ignore newlines until "baseurl:"
   Le site des bouffes front de SFEIR ! Vous y trouverez toutes les présentations faites par les sfeiriens.
 baseurl: "" # the subpath of your site, e.g. /blog
