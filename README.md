@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://sfeir.github.io/bouffe-front/">
-<img src="logo-BouffeFront.png" width=400>
+<img src=".github/logo-BouffeFront.png" width=400>
 </a>
 </p>
 
