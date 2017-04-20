@@ -14,7 +14,7 @@ Identique à la proposition mais avec le tag "Demande".
 
 Enjoy !
 
-## Le site web [![Master branch build status](https://travis-ci.org/Sfeir/bouffe-front.svg?branch=master)](https://travis-ci.org/Sfeir/bouffe-front)
+## Le site web
 
 Pour garder une trace des présentations faites, les bouffes front ont un site !
 
