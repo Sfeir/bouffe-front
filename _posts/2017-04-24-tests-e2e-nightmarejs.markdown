@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "e2e tests using Nightmare/Nightwatch.js!"
 date:   2017-04-24
 categories: prez bouffe front
