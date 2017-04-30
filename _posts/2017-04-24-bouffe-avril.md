@@ -5,6 +5,7 @@ date:   2017-04-24
 categories: prez bouffe front
 ---
 ## Var, let, const et la Temporal Dead Zone
+> Par [@gregorybarale](https://twitter.com/gregorybarale)
 
 ### Le pitch:
 
@@ -21,10 +22,14 @@ Le contenu:
 
 ### Les slides:
 
-[Lien des slides, au format pptx](/_assets/2017-04-24-bouffe-avril/var-let-const-temporal-dead-zone.pptx)
+[Lien des slides, au format pptx]({{ site.baseurl }}/assets/2017-04-24-bouffe-avril/var-let-const-temporal-dead-zone.pptx)
 
 ## Tests e2e avec Nightmare/Nightwatch.js
-Dans cette présentation ([les slides sont par ici](http://slides.com/alexandrebarbier/deck-5-6#/)) je me suis intéressé au concept de **tests e2e** ou tests end to end, c'est à dire des test d'une application web qui à travers l'interface de l'application vont tester l'ensemble de l'application (front-end, back-end, base de donnée...). On peut se demander comment ces test se positionnent dans une démarche globale de qualité pour un projet.
+> Par [@alexbrbr](https://twitter.com/alexbrbr)
+
+### Le pitch
+
+Dans cette présentation, je me suis intéressé au concept de **tests e2e** ou tests end to end, c'est à dire des test d'une application web qui à travers l'interface de l'application vont tester l'ensemble de l'application (front-end, back-end, base de donnée...). On peut se demander comment ces test se positionnent dans une démarche globale de qualité pour un projet.
 
 ### Stratégie de tests
 La première chose à indiquer est que le positionnement des tests e2e est différent de celui des tests unitaires. En effet, les tests unitaires sont rapides à exécuter, et faciles à écrire et à maintenir, ce qui permet de s'approcher d'une couverture importante (le chiffre exact est sujet à débats, 100% de couverture pouvant être considéré trop extrême ou posant des problèmes d'architectures).
@@ -108,7 +113,12 @@ Beaucoup d'autres libraires de tests e2e existent. Je vais les lister rapidement
 - La règle de la pyramide des tests où on doit tester en e2e uniquement les features les plus importantes pour le business me paraît très importante
 - Dans la majorité des cas tester sur un seul navigateur me paraît suffisant, si il faut une précision pixel perfect on devra sans doute passer par des tests avec screenshots.
 
+### Les slides
+
+[Les slides sont par ici](http://slides.com/alexandrebarbier/deck-5-6#/)
+
 ## JavaScript... \*Soupirs\*
+> Par [@SiegfriedEhret](https://twitter.com/SiegfriedEhret)
 
 ### Le pitch:
 
@@ -127,4 +137,4 @@ Essayons de réfléchir ensemble où l'on va !
 
 ### Les slides
 
-[C'est par ici !](/_assets/2017-04-24-bouffe-avril/javascript-soupirs.pdf)
+[C'est par ici !]({{ site.baseurl }}/assets/2017-04-24-bouffe-avril/javascript-soupirs.pdf)
