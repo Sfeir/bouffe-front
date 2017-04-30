@@ -1,13 +1,30 @@
 ---
 layout: post
-title:  "e2e tests using Nightmare/Nightwatch.js!"
+title:  "Bouffe front d'avril"
 date:   2017-04-24
 categories: prez bouffe front
-link: http://slides.com/alexandrebarbier/deck-5-6#/
 ---
+## Var, let, const et la Temporal Dead Zone
+
+### Le pitch:
+
+Depuis ES2015, deux nouvelles instructions permettent de déclarer des variables en JavaScript: **let** et **const**. Quid de ces nouveaux venus? Que permettent-ils de faire exactement? Quelles précautions faut-il prendre au vu de leurs différences avec l'instruction var? Qu'est-ce que la temporal dead zone qui les accompagne?
+
+Cette présentation a pour but de voir les bases de ces instructions et de donner envie de creuser un peu les problématiques les entourant.
+
+Le contenu:
+
+- Petit rappel sur var et l'hoisting
+- Qui est let ?
+- Son copain: const
+- La temporal dead zone
+
+### Les slides:
+
+[Lien des slides, au format pptx](/_assets/2017-04-24-bouffe-avril/var-let-const-temporal-dead-zone.pptx)
 
 ## Tests e2e avec Nightmare/Nightwatch.js
-Dans cette présentation je me suis intéressé au concept de **tests e2e** ou tests end to end, c'est à dire des test d'une application web qui à travers l'interface de l'application vont tester l'ensemble de l'application (front-end, back-end, base de donnée...). On peut se demander comment ces test se positionnent dans une démarche globale de qualité pour un projet.
+Dans cette présentation ([les slides sont par ici](http://slides.com/alexandrebarbier/deck-5-6#/)) je me suis intéressé au concept de **tests e2e** ou tests end to end, c'est à dire des test d'une application web qui à travers l'interface de l'application vont tester l'ensemble de l'application (front-end, back-end, base de donnée...). On peut se demander comment ces test se positionnent dans une démarche globale de qualité pour un projet.
 
 ### Stratégie de tests
 La première chose à indiquer est que le positionnement des tests e2e est différent de celui des tests unitaires. En effet, les tests unitaires sont rapides à exécuter, et faciles à écrire et à maintenir, ce qui permet de s'approcher d'une couverture importante (le chiffre exact est sujet à débats, 100% de couverture pouvant être considéré trop extrême ou posant des problèmes d'architectures).
@@ -85,8 +102,29 @@ Beaucoup d'autres libraires de tests e2e existent. Je vais les lister rapidement
 - Protractor : la solution préconisée pour tester les application Angular. Je n'avais pas envie de limiter les tests possible à un framework.
 - CodeceptJS : API "high-level" qui permet d'écrire les scnéarios de tests et de choisir ensuite comment les faire tourner (Selenium, WebDriverIO, Nightmare.js...). L'idée est intéressante mais assez compliquée dans mon cas d'utilisation.
 
-## Conclusion
+### Conclusion
 
 - Les parties les plus compliquées sont de définir quels tests on veut écrire, et trouver les sélecteurs CSS dont on a besoin.
 - La règle de la pyramide des tests où on doit tester en e2e uniquement les features les plus importantes pour le business me paraît très importante
 - Dans la majorité des cas tester sur un seul navigateur me paraît suffisant, si il faut une précision pixel perfect on devra sans doute passer par des tests avec screenshots.
+
+## JavaScript... \*Soupirs\*
+
+### Le pitch:
+
+Vous baignez dans le JavaScript depuis quelques années ? Vous avez suivi ce qui se passe dans ce monde là ? Vous avez donc certainement croisé le terme de «fatigue», et vous l'avez peut être vécue.
+
+J'ai envie de décortiquer un peu avec vous ce qu'il y a derrière ce terme dépassé (décembre 2015 !!), en prenant un peu de recul pour avoir une vision sur l'ensemble du paysage JavaScript, du langage aux développeurs.
+
+Au programme:
+
+- JavaScript, frameworks et outils
+- Communautés et open source
+- Communication et «advocacy»
+- «Développeur JavaScript»: un métier d'avenir ?
+
+Essayons de réfléchir ensemble où l'on va !
+
+### Les slides
+
+[C'est par ici !](/_assets/2017-04-24-bouffe-avril/javascript-soupirs.pdf)
