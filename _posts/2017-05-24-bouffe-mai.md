@@ -9,9 +9,9 @@ categories: prez bouffe front
 
 ### Le pitch
 
-Retour d'expérience lors de ma mission chez [perfectstay.com](https://www.perfectstay.com/fr-FR/listing?uuid=1) qui produit aussi en B2B2C une application pour air france [la collection air france](https://lacollection.airfrance.fr/fr-FR/listing?uuid=1).
+Retour d'expérience lors de ma mission chez [perfectstay.com](https://www.perfectstay.com/fr-FR/listing?uuid=1) qui produit aussi en B2B2C une application pour Air France [la collection Air France](https://lacollection.airfrance.fr/fr-FR/listing?uuid=1).
 
-Lors de la mission, nous avons conçu une application mono page qui navigue sans requête entre les différents url de l'application, mais qui supporte aussi le rendu côté serveur.
+Lors de la mission, nous avons conçu une application mono page qui navigue sans requête entre les différentes url de l'application, mais qui supporte aussi le rendu côté serveur.
 
 ### Le contenu
 
