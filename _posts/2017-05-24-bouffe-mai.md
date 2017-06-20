@@ -126,7 +126,7 @@ $.ajax({
 
 ##### Avec Fetch
 
-Pour du JS avec fetch, gros gros fail. À l'aide !
+Pour du JS avec fetch, gros gros fail. À l'aide !
 
 #### Ember
 
