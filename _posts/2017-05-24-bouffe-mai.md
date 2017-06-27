@@ -6,6 +6,7 @@ categories: prez bouffe front
 ---
 
 ## CSRF dans les frameworks
+> Par [@SiegfriedEhret](https://twitter.com/SiegfriedEhret)
 
 ### L'attaque CSRF, kézako ?
 
