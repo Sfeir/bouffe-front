@@ -20,6 +20,6 @@ body:
     attributes:
       label: À partir de
       description: Quand est-ce que ça sera prêt ?
-      placeholder: Pour la sortie de Half Life 3
+      placeholder: "Pour la sortie de Half Life 3"
     validations:
       required: false
