@@ -3,10 +3,14 @@ description: "Propose un sujet pour une prochaine Bouffe Front"
 title: "JS in JS"
 labels: ["Proposition"]
 body:
-  - type: markdown
+  - type: textarea
     attributes:
-      value: |
-        Une technique révolutionnaire pour faire du JS en JS !
+      label: Description
+      description: Ça parle de quoi ?
+      render: markdown
+      placeholder: "Une technique révolutionnaire pour faire du JS en JS !"
+    validations:
+      required: true
   - type: input
     id: duration
     attributes:
