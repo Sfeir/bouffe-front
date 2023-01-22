@@ -5,7 +5,7 @@ labels: ["Proposition"]
 body:
   - type: markdown
     attributes:
-      value: |
+      placeholder: |
         Une technique révolutionnaire pour faire du JS en JS !
   - type: input
     id: duration
