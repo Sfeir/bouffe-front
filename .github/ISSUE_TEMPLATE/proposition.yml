@@ -1,0 +1,26 @@
+name: Proposition
+description: "Propose un sujet pour une prochaine Bouffe Front"
+title: "JS in JS"
+labels: ["Proposition"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Une technique révolutionnaire pour faire du JS en JS !
+  - type: input
+    id: duration
+    attributes:
+      label: Durée (minutes)
+      type: number
+      description: Combien de temps pour la présentation ?
+      placeholder: 30
+    validations:
+      required: true
+  - type: input
+    id: from
+    attributes:
+      label: À partir de
+      type: date
+      description: Quand est-ce que ça sera prêt ?
+    validations:
+      required: false
