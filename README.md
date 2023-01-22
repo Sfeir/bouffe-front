@@ -4,11 +4,11 @@
 
 # Bouffe Front
 
-C'est un événement qui a lieu une fois par mois chez [@SFEIRParis](https://twitter.com/SFEIRParis) depuis plusieurs années.
+C'est un événement qui a lieu une fois par mois chez [@SFEIRParis](https://twitter.com/SFEIRParis).
 
 ## Participer
 
-Tout le monde est le bienvenue ! Pour recevoir les invitations à l'événement, rejoignez le groupe [Front](https://sfeir.facebook.com/groups/frontjs) sur Workplace de SFEIR.
+Tout le monde est le bienvenue ! Pour recevoir les invitations à l'événement, rejoignez le groupe [Bouffe Front Paris](https://sfeir.workplace.com/groups/376561922899860) sur Workplace.
 
 ## Proposer un sujet
 
