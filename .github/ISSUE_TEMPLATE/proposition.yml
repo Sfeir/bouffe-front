@@ -11,7 +11,6 @@ body:
     id: duration
     attributes:
       label: Durée (minutes)
-      type: number
       description: Combien de temps pour la présentation ?
       placeholder: 30
     validations:
@@ -20,7 +19,7 @@ body:
     id: from
     attributes:
       label: À partir de
-      type: date
       description: Quand est-ce que ça sera prêt ?
+      placeholder: Pour la sortie de Half Life 3
     validations:
       required: false
