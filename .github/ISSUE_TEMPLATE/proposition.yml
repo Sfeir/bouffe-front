@@ -5,14 +5,14 @@ labels: ["Proposition"]
 body:
   - type: markdown
     attributes:
-      placeholder: |
+      value: |
         Une technique révolutionnaire pour faire du JS en JS !
   - type: input
     id: duration
     attributes:
       label: Durée (minutes)
       description: Combien de temps pour la présentation ?
-      placeholder: 30
+      placeholder: "30"
     validations:
       required: true
   - type: input
